@@ -26,7 +26,7 @@
         :class="{ 'plan-selected' : sub.name === planSelected}"
         >
           <div class="left-0 bottom-0" v-if="sub.name === planSelected">
-            <Check class="w-8 h-8 fill-current text-white -ml-12"/>
+            <Check class="w-8 h-8 fill-current text-white -ml-10"/>
           </div>
           <div class="w-2/5" v-if="billingCycle === 'monthly'">
             <h3 class="hover:text-white">{{sub.name}}</h3>
