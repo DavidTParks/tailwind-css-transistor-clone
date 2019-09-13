@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "My pioneering Nuxt.js project",
+  "author": "David Parks",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "nuxt-svg-loader": "^1.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
