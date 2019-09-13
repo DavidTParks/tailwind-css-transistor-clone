@@ -1,22 +1,4 @@
-# tailwind-css
+# Transistor FM Tailwind CSS 
+This is a project built for fun to test out Tailwind.css and remake the Transistor.fm login page using the design system.
 
-> My pioneering Nuxt.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm run install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+The page I am attempting to replicate is located at https://dashboard.transistor.fm/signup
