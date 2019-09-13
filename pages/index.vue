@@ -1,7 +1,7 @@
 <template>
-  <div class="container mx-auto pt-48">
-    <h1 class=" text-center text-white font-semibold text-4xl">Start your podcast today:</h1>
-    <div class="flex mt-6">
+  <div class="container mx-auto pt-32">
+    <h1 class=" text-center text-white font-semibold text-3xl">Start your podcast today:</h1>
+    <div class="flex mt-12">
       <div class="w-1/2 flex flex-col items-end px-4">
         <div class="flex justify-center items-center w-108 px-4">
           <div 
@@ -49,8 +49,8 @@
         </div>
       </div>
       <div class="w-1/2 flex flex-col justify-center items-start px-4 mt-4">
-        <input class="text-align-center w-108 mt-6 h-12 text-center bg-gray-800 rounded-lg text-xl focus:bg-blue-900 outline-none text-white" placeholder="Email"/>
-        <input class="text-align-center w-108 mt-4 h-12 text-center bg-gray-800 rounded-lg text-xl focus:bg-blue-900 outline-none text-white" placeholder="Password"/>
+        <input class="text-align-center w-108 mt-6 h-12 text-center bg-gray-800 rounded-lg text-xl focus:bg-blue-900 outline-none text-white" placeholder="Your Name"/>
+        <input class="text-align-center w-108 mt-4 h-12 text-center bg-gray-800 rounded-lg text-xl focus:bg-blue-900 outline-none text-white" placeholder="Your Email"/>
         <input class="text-align-center w-108 mt-4 h-12 text-center bg-gray-800 rounded-lg text-xl focus:bg-blue-900 outline-none text-white" placeholder="Set Your Password"/>
         <input class="text-align-center w-108 mt-4 h-12 text-center bg-gray-800 rounded-lg text-xl focus:bg-blue-900 outline-none text-white" placeholder="Card Number"/>
         <button class="mt-4 bg-yellow-500 p-4 w-108 rounded-lg text-yellow-900 uppercase font-semibold shadow-lg sign-in hover:text-yellow-900">Create My Account</button>
